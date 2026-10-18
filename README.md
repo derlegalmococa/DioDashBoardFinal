@@ -54,7 +54,7 @@ A seção **Registros da seleção** exibe os registros que correspondem aos fil
 
 O dashboard é um arquivo HTML único, com os dados incorporados e sem dependências externas necessárias para a visualização.
 
-1. Baixe ou copie `dashboard_vendas_porsche.html` para uma pasta local.
+1. Baixe ou copie `index.html` para uma pasta local.
 2. Abra o arquivo com um navegador atualizado, como Google Chrome, Microsoft Edge ou Firefox.
 3. Selecione os filtros para explorar os dados.
 
@@ -90,7 +90,7 @@ A base contém **24 datas marcadas como `INVALID`**. O dashboard apresenta esses
 
 ```text
 dashboard-porsche/
-├── dashboard_vendas_porsche.html
+├── index.html
 └── README.md
 ```
 
